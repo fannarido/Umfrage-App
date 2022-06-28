@@ -1,4 +1,4 @@
-To run project
+Projekt bei VSC laufen
 
 Schrit 1 => composer install
 
