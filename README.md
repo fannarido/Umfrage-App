@@ -1,3 +1,6 @@
+Dieses Projekt ist Privat und wurde GitFront geteilt
+
+
 Projekt bei VSC laufen
 
 Schrit 1 => composer install
