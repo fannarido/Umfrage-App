@@ -1,20 +1,20 @@
 Projekt bei VSC laufen
 
-Schrit 1 => composer install
+Schritt 1 => composer install
 
-Schrit 2 => npm install
+Schritt 2 => npm install
 
-Schrit 3 => php artisan key:generate
+Schritt 3 => php artisan key:generate
 
-Schrit 4 => php artisan jwt:secret
+Schritt 4 => php artisan jwt:secret
 
-Schrit 5 => php artisan migrate
+Schritt 5 => php artisan migrate
 
-Schrit 6 => php artisan serve
+Schritt 6 => php artisan serve
 
-Schrit 7 -> npm run watch
+Schritt 7 -> npm run watch
 
-Schrit 8 => npm run production (run nur für produktion)
+Schritt 8 => npm run production (run nur für produktion)
 
 
 < == Vue ==>
