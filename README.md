@@ -21,9 +21,9 @@ Schritt 8 => npm run production (run nur für produktion)
 
 Vue routes => resources > js > routes.js
 Vue plugins => reources > js > plugins
-all vue package like axios, vue router, other components are imported in app.js
+alle vue package wie axios, vue router, sind wichtig in app.js
 Vue main component (App.vue) => resources > js > App.vue
-all vue pages => resources > js > pages > frontend
+alle vue pages => resources > js > pages > frontend
 
 < == Laravel == >
 
