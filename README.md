@@ -12,7 +12,7 @@ Schritt 5 => php artisan migrate
 
 Schritt 6 => php artisan serve
 
-Schritt 7 -> npm run watch
+Schritt 7 => npm run watch
 
 Schritt 8 => npm run production (run nur für produktion)
 
@@ -30,5 +30,5 @@ all vue pages => resources > js > pages > frontend
 REST api => routes > api.php
 Migrations file => database > migrations
 
-<-- === websites i used === -->
+<-- === Icon Quelle === -->
 icons => https://fontawesome.com/
